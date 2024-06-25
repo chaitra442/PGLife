@@ -1,2 +1,5 @@
-# PGLife
-PGLife is a web application designed to help students and working professionals find, compare, and book paying guest accommodations with ease.
+# PGlife
+This is a website with some exciting functionality 
+
+Due to the existence of the database, it cannot be hosted on GitHub
+I will link the video . watch in Linkedln
